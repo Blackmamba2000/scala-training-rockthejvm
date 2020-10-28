@@ -18,7 +18,7 @@ object Expressions {
 
   // EVERYTHING IN SCALA IS AN EXPRESSION!
 
-  // Side effects: printing to the console, whiles, and re-assigning
+  // Side effects: printing to the console, while loops, and re-assigning
 
   // Code blocks
   val aCodeBlock = {
@@ -29,6 +29,7 @@ object Expressions {
   }
 
   // 1. What is the difference between the String: "Hello World" vs println("Hello World") ?
+  //    Hello world is a string literal vs the println is a side effect.
   // 2. What is the value of
 
 }
