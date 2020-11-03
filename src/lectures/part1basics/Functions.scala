@@ -26,7 +26,7 @@ object Functions extends App {
     aSmallFunction(n, n-1)
   }
 
-  /*
+  /* Exercises 2
     1. Write a greeting function for kids. It takes 2 parameters. (name, age)
        Output: "Hi, my name is $name and I am $age years old."
 

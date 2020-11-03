@@ -16,4 +16,6 @@ object Exercise1 extends App {
     42
   }
   println("Value of y: " + y)
+
+
 }
